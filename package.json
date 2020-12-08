@@ -1,6 +1,6 @@
 {
-  "name": "say-hello",
-  "version": "1.0.0",
+  "name": "say-hello-bysl",
+  "version": "1.0.1",
   "description": "Say 'Hello' at any language!",
   "main": "Hello.js",
   "scripts": {
