@@ -1,0 +1,19 @@
+{
+  "name": "say-hello",
+  "version": "1.0.0",
+  "description": "Say 'Hello' at any language!",
+  "main": "Hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerjLeo/test-npm.git"
+  },
+  "author": "SerjLeo <serjleodev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerjLeo/test-npm/issues"
+  },
+  "homepage": "https://github.com/SerjLeo/test-npm#readme"
+}
